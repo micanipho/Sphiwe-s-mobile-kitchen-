@@ -1,0 +1,11 @@
+{
+  "name": "sphiwes-mobile-kitchen",
+  "version": "1.0.0",
+  "description": "It's a website that you can order food to be delivered and track your order.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nhlakanipho Masilela",
+  "license": "ISC"
+}
