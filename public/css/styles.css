@@ -1,0 +1,51 @@
+h1 {
+    font-family: "Merriweather", serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 3rem;
+    line-height: 1.5;
+    margin-bottom: 2rem;
+}
+body {
+    font-family: "PT Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+/* navbar */
+
+.logo-img {
+    height: 100px;
+    width: 100px;
+    padding-bottom: 0;
+    margin-left: 10rem;
+}
+.navbar-brand {
+    padding: 0;
+}
+.navbar {
+    padding: 0;
+}
+.navbar-nav {
+    margin-right: 5rem;
+}
+
+/* hero section */
+
+.hero-box {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    height: 500px;
+    width: 100%;
+}
+.hero-box-left {
+align-items: center;
+align-items: center;
+padding: 10rem 0 0 10rem;
+}
+.hero-box-right {
+    background-image: url("../images/background-img.jpg");
+    background-color: #FADBC9;
+    background-blend-mode: multiply;
+    background-size: cover;
+}
